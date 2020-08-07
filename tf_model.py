@@ -25,15 +25,6 @@ class TFModel:
             model.summary()
             model.compile(optimizer = "adam", loss = losses.SparseCategoricalCrossentropy(from_logits=True), metrics = ['acc'])
             print("Optimizer: ", model.optimizer)
-			
-        def LSTM(self, model):
-            model.add(layers.Flatten(input_shape=(28, 28, 1)))
-            model.add(layers.Embedding(input_dim=128, output_dim=32))
-            model.add(layers.LSTM(64))
-            model.add(layers.Dense(10))
-            model.summary()
-            model.compile(optimizer = "adam", loss = losses.SparseCategoricalCrossentropy(from_logits=True), metrics = ['acc'])
-            print("Optimizer: ", model.optimizer)
                 
                 
         def MLP(self, model):
