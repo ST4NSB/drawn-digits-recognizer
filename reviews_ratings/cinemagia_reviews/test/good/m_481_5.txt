@@ -1,0 +1,1 @@
+b'\n                                                            As comenta dar ... \nRule No1 to Fight Club : Do not talk about Fight Club\nRule No2 to Fight Club : Do not talk about FIght Club.\n                                                            '

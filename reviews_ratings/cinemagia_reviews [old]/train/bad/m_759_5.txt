@@ -1,0 +1,1 @@
+b'\n                                                            Este un fil interesant care ar trebui sa transmita valoarea vremurilor de atazi..\n                                                            '

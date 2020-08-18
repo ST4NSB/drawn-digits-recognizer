@@ -1,0 +1,1 @@
+b'\n                                                            C\'est un tr\xc3\xa8s tr\xc3\xa8s beau film. \r\nCriticul de la "Libertatea" care a scris articolul despre acest film n\'a inteles nimic si ar trebui sa se recicleze (jurnalism de trotuar) !\n                                                            '

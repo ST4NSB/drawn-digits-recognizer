@@ -1,0 +1,1 @@
+b'\n                                                            Acesta este un film minunat de la sine \xc5\x9fi  cel mai bun film al trilogiei\n                                                            '

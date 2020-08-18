@@ -1,0 +1,1 @@
+b'\n                                                            Interesant punct de vedere, chiar daca e doar un film, pot fi \xc5\x9fi astfel de oameni \xc5\x9fi astazi, insa ramanem la intrebarea: vrem sa ne schimbam ?\n                                                            '
