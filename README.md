@@ -1,2 +1,2 @@
-# drawn-digits-recognizer
-python app made with tensorflow and tkinter
+# tf-models
+machine learning models that I made with tensorflow library
